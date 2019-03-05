@@ -14,4 +14,4 @@
 
 ### 
 
-The dataset obtained by crawler is available at https://github.com/MiccWan/Political-News-Analysis.
+The original code is from https://github.com/MiccWan/Political-News-Analysis and dataset obtained by crawler is also available in this site.  
