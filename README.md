@@ -1,5 +1,12 @@
-# week0 
-　　　　　　　　　　　　　BY 林冠妙
+# Fintech-Text Mining and Machine Learning
+個人作業放置區
+<br><br>
+R07723033 財工組碩一 林冠妙
+
+<br>
+
+
+## HW0
 
 ### 
 請參閱名稱為hw0的資料夾
